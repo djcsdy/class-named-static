@@ -1,0 +1,4 @@
+-cp src
+-main test.Main
+-cpp bin
+-debug
